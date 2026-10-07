@@ -4,5 +4,5 @@ jobs:
   deploy:
     runs-on: ubuntu_latest
     steps:
-      - name: Output information
+      - name: Output informations
         run: echo "Deploying &uploading"
