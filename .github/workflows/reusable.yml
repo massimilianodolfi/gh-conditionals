@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu_latest
     steps:
       - name: Output information
-        run: echo "'DEploying &uploading"
+        run: echo "Deploying &uploading"
